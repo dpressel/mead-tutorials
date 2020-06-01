@@ -8,7 +8,7 @@ Train LSTM, ConvNet and BERT fine-tuned models for classification using the MEAD
 
 #### Training [Named Entity Recognizers](mead_2_pytorch.ipynb) with MEAD & PyTorch [(Open in Colab)](https://colab.research.google.com/github/dpressel/mead-tutorials/blob/master/mead_2_pytorch.ipynb)
 
-Learn how MEAD supports taggging and create a CNN-BiLSTM-CRF and BERT fine-tuned model to train an NER tagger
+Learn how MEAD supports taggging and create a CNN-BiLSTM-CRF and BERT fine-tuned model for NER
 
 #### Training [Classifiers on Google TPUs](mead_tf_api_tpu.ipynb) using the API [(Open in Colab)](https://colab.research.google.com/github/dpressel/mead-tutorials/blob/master/mead_tf_api_tpu.ipynb)
 
