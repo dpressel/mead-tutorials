@@ -8,7 +8,7 @@ Train LSTM, ConvNet and BERT fine-tuned models for classification using the MEAD
 
 #### Training [Named Entity Recognizers](mead_2_pytorch.ipynb) with MEAD & PyTorch [(Open in Colab)](https://colab.research.google.com/github/dpressel/mead-tutorials/blob/master/mead_2_pytorch.ipynb)
 
-Learn how MEAD supports taggging and create a CNN-BiLSTM-CRF and BERT fine-tuned model for NER
+Learn how MEAD supports tagging and create a CNN-BiLSTM-CRF and BERT fine-tuned model for NER
 
 #### Training [Classifiers on Google TPUs](mead_tf_api_tpu.ipynb) using the API [(Open in Colab)](https://colab.research.google.com/github/dpressel/mead-tutorials/blob/master/mead_tf_api_tpu.ipynb)
 
@@ -16,4 +16,4 @@ Train a ConvNet classifier on TPUs using the TensorFlow API
 
 #### Training a [Transformer Masked Language Model on Google TPUs](mead_transformers_tpu.ipynb) using the API [(Open in Colab)](https://colab.research.google.com/github/dpressel/mead-tutorials/blob/master/mead_transformers_tpu.ipynb)
 
-Pre-Train a Transformer Masked Language Model (like RoBERTa) using the API in TensorFlow on TPUs
+Pre-Train a Transformer Masked Language Model (like BERT/RoBERTa) using the API in TensorFlow on TPUs
